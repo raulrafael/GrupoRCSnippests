@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+ <div class="input-group">
+                  <div class="input-group-addon">
+                    <i class="fa fa-phone"></i>
+                  </div>
+                  <input type="text" class="form-control" data-inputmask='"mask": "(999) 999-9999"' data-mask>
+                </div>
+                <!-- /.input group -->
+              </div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
